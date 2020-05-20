@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "plugins": [{
+            "name": "../../../../../../../../home/david/cloudshell_open/tp/plugin"
+        }]
+    }
+}
